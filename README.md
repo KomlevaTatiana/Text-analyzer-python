@@ -23,7 +23,8 @@ Beginner Python project for text analysis and visualization
 
 # File
 - 'text_analyzer.ipynb'  main notebook with the project code
-- 'sample_text.txt'  example text file for testing
+- 'sample_text_english.txt'  example text file for testing
+- 'sample_text_deutsch.txt'  example text file for testing
 
 # Purpose
 I created this project to practice text processing, counting word frequencies, and visualizing text statistics in Python.
